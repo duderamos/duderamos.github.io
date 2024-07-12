@@ -3,6 +3,7 @@ layout: post
 title: "AWS port restriction"
 date: 2024-07-01 14:26:07 +1000
 categories: til
+tags: aws
 author: Eduardo Ramos
 ---
 
