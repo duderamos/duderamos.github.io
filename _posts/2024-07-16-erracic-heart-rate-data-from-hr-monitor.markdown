@@ -21,7 +21,7 @@ toughest workouts, even hardly when still warm up jogging. It's annoying!
 
 Initially, I thought that my low-cost HR monitor's battery was reaching out its end of life. I got it replaced, and it seemed to work, but eventually, the same erratic data started to show up again.
 
-Then I decided that maybe my HR motitor itself was failing, and decided to buy a proper one, Garmin branded.
+Then I decided that maybe my HR monitor itself was failing, and decided to buy a proper one, Garmin branded.
 
 Yay, problem solved, much more reliable, until... erratic numbers again! :( What the hell, could it be my watch?
 Could it be the wireless connection between them? Well, let's have a look at the manual, maybe there's some
@@ -32,7 +32,7 @@ That was when I learned 2 things.
 > * Reapply water to the electrodes and contact patches
 > * Wear a cotton shirt or thoroughly wet both sides of the strap. Synthetic fabrics that rub or flap against the heart rate monitor can create static electricity that interferes with heart rate signals.
 
-Looking back, I can tell that all the days this issue happened, the weather was dry and cold, which took me longer to sweat and probably, didn't help to conduct the eletrical signal to the sensors. Also, I was wearing synthetic fabric, that very likely contributed to some static to build up. I even remeber that in one of those occurences, I took off my t-shirt and the numbers went back to normal levels.
+Looking back, I can tell that all the days this issue happened, the weather was dry and cold, which took me longer to sweat and probably, didn't help to conduct the electrical signal to the sensors. Also, I was wearing synthetic fabric, that very likely contributed to some static to build up. I even remember that in one of those occurrences, I took off my T-shirt and the numbers went back to normal levels.
 
 So, from here, I know that I should always moist the strap before wearing and consider better fabrics of my running t-shirts.
 
