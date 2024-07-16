@@ -17,9 +17,9 @@ which relies on direct electrical signal from our cardio nervous system. For thi
 wear a strap HR monitor.
 
 Recently, I noticed that in a few ~random~ times, my HR spiked to levels that I've never reached during my
-toughed workouts, even hardly when still warm up jogging. It's annoying!
+toughest workouts, even hardly when still warm up jogging. It's annoying!
 
-Initially, I thought that my low-cost HR monitor's battery was reaching its end of life. I got it replaced, and it seemd to work, but eventually, the same erratic HR started again.
+Initially, I thought that my low-cost HR monitor's battery was reaching out its end of life. I got it replaced, and it seemed to work, but eventually, the same erratic data started to show up again.
 
 Then I decided that maybe my HR motitor itself was failing, and decided to buy a proper one, Garmin branded.
 
