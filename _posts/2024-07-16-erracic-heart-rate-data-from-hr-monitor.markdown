@@ -6,9 +6,6 @@ categories: til
 tags: til running tips
 author: Eduardo Ramos
 ---
-
-# Erratic Heart Rate data from HR monitor
-
 As a runner, I love analysing my workout numbers and graphs to spot points of improvements, check if
 I am getting better or worse... I'm just obsessed by these numbers.
 

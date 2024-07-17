@@ -6,9 +6,6 @@ categories: til
 tags: aws
 author: Eduardo Ramos
 ---
-
-# AWS port restriciton
-
 After a few hours trying to understand why my sidekiq job was failing to send out emails, getting
 network timeout error, I finally found the reason.
 

@@ -6,9 +6,6 @@ categories: til
 tags: aws terraform rds
 author: Eduardo Ramos
 ---
-
-# Restore RDS point in time using Terraform
-
 As part of our annual business continuity plan, we had to simulate a database less/corruption of our
 main application, and steps to recover from backup.
 

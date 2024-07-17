@@ -6,9 +6,6 @@ categories: til
 tags: aws docker containers
 author: Eduardo Ramos
 ---
-
-# ECS Fargate and containers with init process
-
 For a few weeks my team has noticed that our load balancer is reporting a spike of 5XX errors whenever we roll deployments.
 There is actually no issue with the applications, and from user of our application perspective, everything goes well.
 However, it stains our logs and reports.
