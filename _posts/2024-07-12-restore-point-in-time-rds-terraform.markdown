@@ -11,7 +11,7 @@ main application, and steps to recover from backup.
 
 Our application uses RDS instance, with continuous backup enabled. We can easily do it manually via AWS Web console
 with a few clicks, but as the infrastructure is managed using Terraform, the best would be able to do the whole
-operation using it. IaC laverages us to not just get infra running but also documented and reviewed later.
+operation using it. IaC leverages us to not just get infra running but also documented and reviewed later.
 
 A simple search on DuckDuckGo for the terms `rds restore point in time terraform`, I got to the official documentation.
 

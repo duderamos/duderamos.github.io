@@ -20,7 +20,7 @@ Initially, I thought that my low-cost HR monitor's battery was reaching out its 
 
 Then I decided that maybe my HR monitor itself was failing, and decided to buy a proper one, Garmin branded.
 
-Yay, problem solved, much more reliable, until... erratic numbers again! :( What the hell, could it be my watch?
+Yay, problem solved, much more reliable, until... Erratic numbers again! :( What the hell, could it be my watch?
 Could it be the wireless connection between them? Well, let's have a look at the manual, maybe there's some
 test or reset I can do to fix it.
 

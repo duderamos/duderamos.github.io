@@ -14,7 +14,7 @@ After some research, we found that probably our application is taking a little l
 is sending SIGKILL to the container, causing a sudden disconnection between the container and load balance target.
 
 In order to address this, we enabled our containers to run the application by a Linux init process, that will take care
-of the process lifecycle and do the proper clean up of child processes.
+of the process life cycle and do the proper clean up of child processes.
 
 It was the solution for the 5XX issues.
 
