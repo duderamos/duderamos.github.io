@@ -29,6 +29,12 @@ git commit -m "Remove foo"
 rm -r .git/modules/pack/plugins/start/foo
 ```
 
+Update all packs:
+```shell
+git submodule update --recursive --remote --init
+git commit pack -m "Update packs"
+```
+
 References:
 * [Using git-submodules to version-control Vim plugins](https://gist.github.com/duderamos/a4bcf2477031debdf1673c93703539ee) *Forked from https://gist.github.com/manasthakur/d4dc9a610884c60d944a4dd97f0b3560*
 * [Vim 8 package management](https://www.danielfranklin.id.au/vim/vim-8-package-management/)
